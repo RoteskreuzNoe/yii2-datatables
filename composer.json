@@ -2,7 +2,7 @@
     "name": "rklandesverband/yii2-datatables",
     "description": "Datatables widget for Yii2 uses datatables",
     "type": "yii2-extension",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "keywords": ["yii2","extension","jquery","datatables","table","javascript","library"],
     "license": "MIT",
     "authors": [
