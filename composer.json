@@ -14,7 +14,7 @@
     "require": {
         "yiisoft/yii2":"~2.0.13",
         "bower-asset/jquery":"~3",
-        "bower-asset/datatables": "~1.10.15",
+        "datatables/datatables": "*",
         "bower-asset/datatables-plugins": "~1.10.15"
     },
     "autoload": {
